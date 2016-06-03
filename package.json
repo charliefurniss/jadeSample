@@ -30,5 +30,5 @@
   "scripts": {
     "start": "node keystone.js"
   },
-  "main": "keystone.js",
+  "main": "keystone.js"
 }
