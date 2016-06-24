@@ -36,7 +36,7 @@ keystone.init({
 	'auth': true,
 	'user model': 'User',
 
-	'cloudinary config': process.env.CLOUDINARY_URL,
+	'cloudinary config': process.env.CLOUDINARY_URL
 	// 'env': process.env.NODE_ENV || "development",
 
 	// 'mongo': "mongodb://localhost/lovebop" || process.env.MONGO_URI
